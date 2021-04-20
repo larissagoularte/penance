@@ -37,12 +37,21 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Objects\OldRadio\Okean\CamRotat.cs" />
+     <None Include="Assets\Materials\Nice Materials Pack 2\Shaders\ScratchedWood.shader" />
      <None Include="Assets\Objects\Tool Starter Kit\ReadME.txt" />
+     <None Include="Assets\Materials\Nice Materials Pack 2\Shaders\PaintedWall.shader" />
+     <None Include="Assets\Materials\Nice Materials Pack 2\Shaders\Stone Tile.shader" />
      <None Include="Assets\Objects\Interior Asset\README.txt" />
      <None Include="Assets\Objects\Interior Asset\Source\InteriorPlant\Cactus\Flower\Materials\Double Sided Transparent Diffuse Bump Cutout.shader" />
      <None Include="Assets\Objects\Interior Asset\Source\InteriorPlant\Grass\Materials\Double Sided Transparent Diffuse Bump Cutout.shader" />
+     <None Include="Assets\Materials\Nice Materials Pack 2\Shaders\Lino.shader" />
+     <None Include="Assets\Materials\Nice Materials Pack 2\Shaders\Processed Leather.shader" />
+     <None Include="Assets\Materials\Nice Materials Pack 2\Shaders\Cloth.shader" />
      <None Include="Assets\Objects\OldRadio\Okean\ReadMe.txt" />
+     <None Include="Assets\Materials\Nice Materials Pack 2\Shaders\Carpet.shader" />
+     <None Include="Assets\Materials\Nice Materials Pack 2\Shaders\Concrete Wall.shader" />
      <None Include="Assets\Objects\InstantZoomies\HorrorStarterPackFREE\README.txt" />
+     <None Include="Assets\Materials\Nice Materials Pack 2\Shaders\Stained Leather.shader" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
